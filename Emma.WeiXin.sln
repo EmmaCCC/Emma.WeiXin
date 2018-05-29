@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emma.WeiXin", "Emma.WeiXin\Emma.WeiXin.csproj", "{19CCA85F-8B9F-4964-929C-4C1749EC8323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{5B616252-808F-4AA2-A933-C40904DFC409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19CCA85F-8B9F-4964-929C-4C1749EC8323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CCA85F-8B9F-4964-929C-4C1749EC8323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CCA85F-8B9F-4964-929C-4C1749EC8323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CCA85F-8B9F-4964-929C-4C1749EC8323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B616252-808F-4AA2-A933-C40904DFC409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B616252-808F-4AA2-A933-C40904DFC409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B616252-808F-4AA2-A933-C40904DFC409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B616252-808F-4AA2-A933-C40904DFC409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
